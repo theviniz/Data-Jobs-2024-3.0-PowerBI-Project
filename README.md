@@ -7,6 +7,10 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 ### Dashboard File
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
 
+<p align="center">
+  <img src="https://github.com/dyneth02/Data-Jobs-2024-3.0-PowerBI-Project/blob/main/screenshots/Screenshot%202026-01-10%20000845.png">
+</p>
+
 ## Skills Showcased
 
 This project was a journey through key Power BI features. Here's a look at what we mastered:
